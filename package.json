@@ -1,10 +1,9 @@
 {
-  "name": "@funkylover/vue-typed",
+  "name": "vue-typed",
   "version": "0.0.1",
   "description": "vue type component",
   "author": "ahui-lin@qq.com",
   "private": false,
-  "main": "dist/build.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
